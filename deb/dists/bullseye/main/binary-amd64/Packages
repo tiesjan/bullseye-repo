@@ -1,0 +1,19 @@
+Package: libappindicator3-1
+Architecture: all
+Version: 0.5-1
+Priority: optional
+Section: oldlibs
+Maintainer: Ties Jan Hefting <hello@tiesjan.com>
+Installed-Size: 1
+Depends: libayatana-appindicator3-1
+Filename: pool/main/libappindicator3-1.all.deb
+Size: 1508
+MD5sum: 568414a57268fc7ac6fac4515da36383
+SHA1: 308c1e52c499dd640cfe9b62c24e29ae7eb9167e
+SHA256: 20e5354a5bc1359f92510c8aefdf6b42a0c527e95cecf1356f5d70fa5eac2573
+SHA512: 54450eca5b8a2f0f3f107b5886707eeea6aa0bfd3e2a43f5cac244fafa7b0c78f793574b1b02d8755f58a4bf8f57aeca84fe6f930d7ba1ebf0df67c099fe5d7a
+Homepage: https://launchpad.net/libappindicator
+Description: transitional package for deprecated libappindicator3
+ This is a transitional package to ease upgrades to libayatana-appindicator.
+ It can be safely removed.
+

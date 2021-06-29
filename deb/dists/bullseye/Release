@@ -1,0 +1,29 @@
+Architectures: all
+Codename: bullseye
+Components: main
+Date: Tue, 29 Jun 2021 18:54:21 +0000
+Label: tiesjan.com APT Repository
+MD5Sum:
+ 4b022a99e98a006222b32a0e69a030f8              143 main/Contents-amd64
+ b974e94486b9c35506551b76375a8b86              108 main/Contents-amd64.gz
+ 3007bddf652bd845ca99b48d7c813a08              775 main/binary-amd64/Packages
+ d9fa20ed8260998c344587690c99f042              507 main/binary-amd64/Packages.gz
+ d938a4e3cfd4cb8cf8366d217626c916              832 main/binary-amd64/Release
+SHA1:
+ a8bc9cc461b77dafdaa66d06f3fe74665cbbb4fe              143 main/Contents-amd64
+ 54f1cb2291859efc27e4ffff9a00c0df97dd4617              108 main/Contents-amd64.gz
+ e916f8615afedd0e6611960b95b55907a4a5dbe0              775 main/binary-amd64/Packages
+ 23936fea50a9047bcd80c00b150ba90a1ec34a21              507 main/binary-amd64/Packages.gz
+ 1fd39878009edd0ed8033b1ed14f971889919059              832 main/binary-amd64/Release
+SHA256:
+ 549b4778994e88c6ad48f2e954dfaed0d68a3f8a52394daf8d2fc67691e35c2d              143 main/Contents-amd64
+ 42c59b4d4acb492f7bc202c779c88339db2e126d18f6025147cdad28878a0926              108 main/Contents-amd64.gz
+ 7cbb771405d35649a80e81ee314500bbc70456ddd1b412672ff60f5de9f6a7f9              775 main/binary-amd64/Packages
+ a2d79052b8aa3b8be0be0bcbc60076d291f992f67805f95f863b6dddb61c2d04              507 main/binary-amd64/Packages.gz
+ 9fc7be909b50c4dde1bce134b1b32c38c8b6c5728a87c278efd9c1772ba94f8b              832 main/binary-amd64/Release
+SHA512:
+ de43600eb4005883081ab2a502f2db42bfbe6fe74b92d2633cbe2b0c4af6c715e6ae3496a8610982669c6b38489edcd2193be261b7e2ebb12666cab1ffd86e92              143 main/Contents-amd64
+ 49a00adcbaa7d52f559fd3aba485a84fa43d7bf904e57478a3cee0e6b0ed630e06012ce1c780f3adc849b218b2545586050faa60ac0b68d0f686fa773b31fa37              108 main/Contents-amd64.gz
+ e07fa2b808aca34f67db1213eff6a0120fe8bcfb2adaf0607e031954d74ef2e06b27c198be8bcc5894f573161b3fbe699f35b567181bb3412d2a1e3a27a205d4              775 main/binary-amd64/Packages
+ 7dee4acf45c1114c2ad33d25905f6be26c287a76d46a914c2972d3821507278e905f8cf1dbbca9a3be6163c8b96be25fd86323daa88612595715ad16e388a9f3              507 main/binary-amd64/Packages.gz
+ 80fcedaef3e5d0526b8b4eb02ae79933304f4560700f074c5e25a3a4e211504254ec6ce27e9960f5d0ddfdbf640036f3ebd46a49c49d33bcaa6a62c1c6a7bdf4              832 main/binary-amd64/Release
